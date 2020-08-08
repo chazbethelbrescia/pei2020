@@ -1,4 +1,4 @@
-name: pei2020
+name: chazbpei2020
 channels:
   - conda-forge
 dependencies:
@@ -8,9 +8,12 @@ dependencies:
   - jupyter
   - jupyterlab
   - xarray
+  - cartopy
   - numpy
   - scipy
   - dask
   - netcdf4
   - pandas
   - matplotlib
+  - xhistogram
+  - xgcm
