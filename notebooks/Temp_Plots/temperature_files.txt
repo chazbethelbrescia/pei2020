@@ -1,0 +1,312 @@
+All files in TEMP directory:
+
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/sst_ens101_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/sst_ens102_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/sst_ens103_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/sst_ens104_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/sst_ens105_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/sst_ens106_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/sst_ens107_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/sst_ens108_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/sst_ens109_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/sst_ens110_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/sst_ens111_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/sst_ens112_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/sst_ens113_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/sst_ens114_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/sst_ens115_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/sst_ens116_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/sst_ens117_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/sst_ens118_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/sst_ens119_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/sst_ens120_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/sst_ens121_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/sst_ens122_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/sst_ens123_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/sst_ens124_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/sst_ens125_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/sst_ens126_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/sst_ens127_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/sst_ens128_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/sst_ens129_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/sst_ens130_1x1_1950_2100.nc
+
+
+
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_irr_0.1Wm2_1x1_ens101_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_irr_0.1Wm2_1x1_ens102_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_irr_0.1Wm2_1x1_ens103_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_irr_0.1Wm2_1x1_ens104_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_irr_0.1Wm2_1x1_ens105_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_irr_0.1Wm2_1x1_ens106_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_irr_0.1Wm2_1x1_ens107_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_irr_0.1Wm2_1x1_ens108_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_irr_0.1Wm2_1x1_ens109_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_irr_0.1Wm2_1x1_ens110_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_irr_0.1Wm2_1x1_ens111_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_irr_0.1Wm2_1x1_ens112_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_irr_0.1Wm2_1x1_ens113_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_irr_0.1Wm2_1x1_ens114_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_irr_0.1Wm2_1x1_ens115_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_irr_0.1Wm2_1x1_ens116_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_irr_0.1Wm2_1x1_ens117_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_irr_0.1Wm2_1x1_ens118_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_irr_0.1Wm2_1x1_ens119_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_irr_0.1Wm2_1x1_ens120_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_irr_0.1Wm2_1x1_ens121_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_irr_0.1Wm2_1x1_ens122_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_irr_0.1Wm2_1x1_ens123_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_irr_0.1Wm2_1x1_ens124_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_irr_0.1Wm2_1x1_ens125_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_irr_0.1Wm2_1x1_ens126_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_irr_0.1Wm2_1x1_ens127_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_irr_0.1Wm2_1x1_ens128_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_irr_0.1Wm2_1x1_ens129_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_irr_0.1Wm2_1x1_ens130_1950_2100.nc
+
+
+
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k01_ens101_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k01_ens102_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k01_ens103_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k01_ens104_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k01_ens105_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k01_ens106_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k01_ens107_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k01_ens108_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k01_ens109_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k01_ens110_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k01_ens111_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k01_ens112_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k01_ens113_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k01_ens114_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k01_ens115_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k01_ens116_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k01_ens117_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k01_ens118_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k01_ens119_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k01_ens120_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k01_ens121_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k01_ens122_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k01_ens123_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k01_ens124_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k01_ens125_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k01_ens126_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k01_ens127_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k01_ens128_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k01_ens129_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k01_ens130_1x1_1950_2100.nc
+
+
+
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k10_ens101_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k10_ens102_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k10_ens103_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k10_ens104_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k10_ens105_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k10_ens106_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k10_ens107_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k10_ens108_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k10_ens109_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k10_ens110_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k10_ens111_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k10_ens112_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k10_ens113_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k10_ens114_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k10_ens115_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k10_ens116_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k10_ens117_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k10_ens118_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k10_ens119_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k10_ens120_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k10_ens121_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k10_ens122_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k10_ens123_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k10_ens124_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k10_ens125_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k10_ens126_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k10_ens127_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k10_ens128_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k10_ens129_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k10_ens130_1x1_1950_2100.nc
+
+
+
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k11_ens101_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k11_ens102_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k11_ens103_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k11_ens104_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k11_ens105_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k11_ens106_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k11_ens107_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k11_ens108_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k11_ens109_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k11_ens110_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k11_ens111_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k11_ens112_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k11_ens113_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k11_ens114_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k11_ens115_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k11_ens116_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k11_ens117_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k11_ens118_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k11_ens119_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k11_ens120_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k11_ens121_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k11_ens122_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k11_ens123_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k11_ens124_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k11_ens125_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k11_ens126_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k11_ens127_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k11_ens128_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k11_ens129_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k11_ens130_1x1_1950_2100.nc
+
+
+
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k20_ens101_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k20_ens102_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k20_ens103_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k20_ens104_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k20_ens105_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k20_ens106_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k20_ens107_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k20_ens108_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k20_ens109_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k20_ens110_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k20_ens111_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k20_ens112_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k20_ens113_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k20_ens114_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k20_ens115_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k20_ens116_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k20_ens117_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k20_ens118_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k20_ens119_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k20_ens120_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k20_ens121_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k20_ens122_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k20_ens123_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k20_ens124_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k20_ens125_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k20_ens126_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k20_ens127_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k20_ens128_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k20_ens129_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k20_ens130_1x1_1950_2100.nc
+
+
+
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k21_ens101_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k21_ens102_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k21_ens103_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k21_ens104_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k21_ens105_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k21_ens106_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k21_ens107_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k21_ens108_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k21_ens109_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k21_ens110_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k21_ens111_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k21_ens112_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k21_ens113_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k21_ens114_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k21_ens115_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k21_ens116_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k21_ens117_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k21_ens118_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k21_ens119_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k21_ens120_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k21_ens121_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k21_ens122_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k21_ens123_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k21_ens124_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k21_ens125_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k21_ens126_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k21_ens127_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k21_ens128_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k21_ens129_1x1_1950_2100.nc
+/local/ss23/GFDL_LEs/OCN/TEMP/RCP85/temp_k21_ens130_1x1_1950_2100.nc
+
+
+
+--------------------------------------------------------------------
+Paths to preprocessed data
+
+RCP85:
+~/chazbpei2020/data/processed/Temp/RCP85/sst_ensAvg_1950_2100.nc
+~/chazbpei2020/data/processed/Temp/RCP85/temp_irr_0.1Wm2_ensAvg_1950_2100.nc
+~/chazbpei2020/data/processed/Temp/RCP85/temp_k01_ensAvg_1950_2100.nc
+~/chazbpei2020/data/processed/Temp/RCP85/temp_k10_ensAvg_1950_2100.nc
+~/chazbpei2020/data/processed/Temp/RCP85/temp_k11_ensAvg_1950_2100.nc
+
+
+~/chazbpei2020/data/processed/Temp/RCP85/sst_ensMin_1950_2100.nc
+~/chazbpei2020/data/processed/Temp/RCP85/temp_irr_0.1Wm2_ensMin_1950_2100.nc
+~/chazbpei2020/data/processed/Temp/RCP85/temp_k01_ensMin_1950_2100.nc
+~/chazbpei2020/data/processed/Temp/RCP85/temp_k10_ensMin_1950_2100.nc
+~/chazbpei2020/data/processed/Temp/RCP85/temp_k11_ensMin_1950_2100.nc
+
+RCP45:
+~/chazbpei2020/data/processed/Temp/RCP45/temp_irr_0.1Wm2_ensAvg_2006_2100.nc
+~/chazbpei2020/data/processed/Temp/RCP45/sst_ensAvg_2006_2100.nc
+
+
+~/chazbpei2020/data/processed/Temp/RCP45/temp_irr_0.1Wm2_ensMin_2006_2100.nc
+~/chazbpei2020/data/processed/Temp/RCP45/sst_ensMin_2006_2100.nc
+
+RCP26:
+~/chazbpei2020/data/processed/Temp/RCP26/temp_irr_0.1Wm2_ensAvg_2006_2100.nc
+~/chazbpei2020/data/processed/Temp/RCP26/sst_ensAvg_2006_2100.nc
+
+
+~/chazbpei2020/data/processed/Temp/RCP26/temp_irr_0.1Wm2_ensMin_2006_2100.nc
+~/chazbpei2020/data/processed/Temp/RCP26/sst_ensMin_2006_2100.nc
+
+--------------------------------------------------------------------
+Example Dataset:
+
+<xarray.Dataset>
+Dimensions:        (TIME: 1812, XT_OCEAN: 360, YT_OCEAN: 180, bnds: 2)
+Coordinates:
+  * TIME           (TIME) object 1950-01-16 12:00:00 ... 2100-12-16 12:00:00
+  * YT_OCEAN       (YT_OCEAN) float64 -89.5 -88.5 -87.5 -86.5 ... 87.5 88.5 89.5
+  * XT_OCEAN       (XT_OCEAN) float64 0.5 1.5 2.5 3.5 ... 357.5 358.5 359.5
+Dimensions without coordinates: bnds
+Data variables:
+    YT_OCEAN_bnds  (YT_OCEAN, bnds) float64 ...
+    XT_OCEAN_bnds  (XT_OCEAN, bnds) float64 ...
+    TEMP_IRR       (TIME, YT_OCEAN, XT_OCEAN) float32 ...
+Attributes:
+    history:                   Fri Jun 12 14:34:58 2020: nces ./temp_irr_0.1W...
+    Conventions:               CF-1.0
+    NCO:                       4.6.8
+    nco_openmp_thread_number:  1
+    code_version:              $Name: bronx-10_performance_z1l $
+    
+    
+    
+    
+    
+<xarray.Dataset>
+Dimensions:        (bnds: 2, st_ocean: 1, time: 1812, xt_ocean: 360, yt_ocean: 180)
+Coordinates:
+  * time           (time) object 1950-01-16 12:00:00 ... 2100-12-30 12:00:00
+  * st_ocean       (st_ocean) float64 5.0
+  * yt_ocean       (yt_ocean) float64 -89.5 -88.5 -87.5 -86.5 ... 87.5 88.5 89.5
+  * xt_ocean       (xt_ocean) float64 0.5 1.5 2.5 3.5 ... 357.5 358.5 359.5
+Dimensions without coordinates: bnds
+Data variables:
+    yt_ocean_bnds  (yt_ocean, bnds) float64 ...
+    xt_ocean_bnds  (xt_ocean, bnds) float64 ...
+    temp           (time, st_ocean, yt_ocean, xt_ocean) float32 ...
+Attributes:
+    filename:                  19500101.ocean_month.nc
+    title:                     ESM2M-C1_all_historical_HC2_HighFreqDiag_ens101
+    grid_type:                 mosaic
+    grid_tile:                 1
+    history:                   Fri Jun 12 14:14:33 2020: nces ./sst_ens101_1x...
+    NCO:                       4.6.8
+    nco_openmp_thread_number:  1
+    code_version:              $Name: bronx-10_performance_z1l $
